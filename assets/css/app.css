@@ -1,0 +1,28 @@
+/* 1- Helpers */
+@import './helpers/variables.css';
+
+/* 2- Baiscs */
+@import './basics/global.css';
+
+/* 3- Layouts */
+@import './layouts/header.css';
+@import './layouts/footer.css';
+
+/* 4- Modules */
+@import './modules/module.css';
+
+/* 5- Pages */
+@import './pages/home.css';
+@import './pages/individual.css';
+@import './pages/about-app.css';
+@import './pages/schedule.css';
+@import './pages/email-confirmation.css';
+@import './pages/confirm.css';
+@import './pages/resources.css';
+@import './pages/self-care.css';
+@import './pages/self-care-activities.css';
+@import './pages/enrollment.css';
+@import './pages/payment.css';
+@import './pages/conditions.css';
+@import './pages/about-us.css';
+@import './pages/mobile-app.css';
